@@ -34,6 +34,24 @@ Source: Polish edition of Wiktionary
   year={2020}
 }
 
+``kaz.sm``: @book{kazakh,
+  address   = {Online},
+  author    = {Temir Nabiyev},
+  publisher = {Preceptor Language Guides},
+  title     = {Kazakh Language: 101 Kazakh Verbs},
+  url       = {https://www.amazon.com/Kazakh-Language-101-Verbs/dp/1619494450},
+  year      = {2015}
+}
+
+``kaz.sm``: @book{kazakh2,
+  address   = {Online},
+  author    = {Turkicum},
+  publisher = {Preceptor Language Guides},
+  title     = {The Kazakh Verbs: Review Guide},
+  url       = {https://www.amazon.com/Kazakh-Verbs-Review-Guide-ebook/dp/B081XF612J/},
+  year      = {2019}
+}
+
 ```
 ## License
 
